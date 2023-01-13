@@ -1,0 +1,41 @@
+---
+title: IMS322 A&B Documentation - Fall 2022
+---
+
+[Back to schedule](index.md)  
+
+# Week 9 - New Styling Ideas - 10/17-10/19
+
+## Utility classes
+Up until now, we have mostly talked about styling with a "semantic" approach. meaning that a class is usually named for the content where it is being applied (e.g. "profile-card", "bio-section", "bar-graph", etc.). The styling applied to that class then reflects how you want that specific content to appear - you think about "what do I want the bio section to look like?" and then adjust all of the style properties for the bio section accordingly.  
+
+Utility classes are just a different approach to how you name your classes and define their style properties in CSS. They tend to have a single purpose and are named for what they do, rather than what they're being applied to. One way in which we've already applied the utility class approach is when using the class "flex-container" to style a flex box. Other examples of utiliy classes might be "bg-blue", "text-centered", "large-font", etc. They are most powerful when used in combination - remember that you can apply multiple classes to the same HTML element.
+
+<p class="codepen" data-height="360" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="mdLaaNP" data-editable="true" data-user="ersheff" style="height: 360px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ersheff/pen/mdLaaNP">
+  Week9-1-Utility</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+## Adding and removing classes
+Although you can change style properties of elements directly from within JavaScript, sometimes it can be more practical to define style alterations in utility classes and use JavaScript to add and remove classes as needed. For example, having an "inactive" class to make an element look deactivated or invalid. Classes can be added or removed using `element.classList.add()` and `element.classList.remove()`. You can also toggle a class on or off using `element.classList.toggle()` - this approach is best when you simply need to alternate between 2 states as you don't need to check first which state the element is in.
+
+<p class="codepen" data-height="400" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="JjvwxGg" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ersheff/pen/JjvwxGg">
+  Untitled</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+## Hiding inactive content
+Think about some other ways that you can not just make content look inactive, but hide it entirely when it is not active...
+
+<p class="codepen" data-height="560" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="gOzZqGR" data-editable="true" data-user="ersheff" style="height: 560px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ersheff/pen/gOzZqGR">
+  Week9-3-Hide</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
