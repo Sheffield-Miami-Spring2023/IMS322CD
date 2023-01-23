@@ -1,13 +1,22 @@
 ---
 layout: default
-title: IMS322 A&B Documentation - Spring 2023
+title: IMS322 C&D Documentation - Spring 2023
 description: Home
 --- 
 
 # Introduction
-This site is intended to supplement other published readings with custom exercises and additional content relevant to the week's topic(s). Embedded Replit examples can be edited by....  
+This site is intended to supplement other published readings with custom exercises and additional content relevant to the week's topic(s). Examples can be viewed by clicking on the associated links - this will bring you to a preview page on Replit with a file browser and "Run" button. 
 
-If you would like to save a copy of any embedded "pen", simply click the "Edit on CodePen" link - this will open it in a separate editor window. From there, as long as you are logged in to CodePen, you can click the "fork" button in the lower right corner to automatically duplicate the pen and save it to your own account.  
+<a href="https://replit.com/@sheffie/IMS322-Welcome#index.html" target="_blank">Hi! example on Replit</a>
+
+If you would like to save a copy of any examples, simply click the "Fork Repl" button - this will make a copy of the Repl in your Replit account.
+
+-----
+
+# Using Replit
+Assignments will be created for you and assigned in the Teams section on Replit. You can start, edit, and submit any of these by going to your Team.  
+
+You can create new Repls in your Replit account any time by clicking "+ Create". We will use the HTML, CSS, JS template all semester. Be aware that these personal Repls are technically public. It is extremely unlikely that anyone outside of class will view these; however, it would be a good idea to avoid putting any personal or identifying information in them.
 
 -----
 
@@ -21,6 +30,4 @@ If you would like to save a copy of any embedded "pen", simply click the "Edit o
 -----
 
 # Weekly Content
-- [Week 1 - Introduction and Review](docs-week1.md)
-
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@sheffie/UnnaturalHandmadePriorities#index.html?embed=true"></iframe>
+Coming soon...

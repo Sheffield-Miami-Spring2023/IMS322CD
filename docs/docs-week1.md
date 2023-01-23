@@ -1,5 +1,5 @@
 ---
-title: IMS322 A&B Documentation - Spring 2023
+title: IMS322 C&D Documentation - Spring 2023
 ---
 
 [Back to schedule](index.md)  
@@ -9,7 +9,7 @@ title: IMS322 A&B Documentation - Spring 2023
 ## Using an online code editor (Replit)
 This semester, we will be using an online code editor called Replit for all coding coursework. Using an online editor greatly simplifies several aspects of writing HTML, CSS, and JavaScript, including setup, previewing, sharing, and collaborating.  
 
-[Replit](https://replit.com) is where you will accept and submit all assignments and do in-class group exercises using a shared editor. Once you've created an account and joined the course team, you will be able to see and accept upcoming assignments. Direct links to will also be available in Canvas. 
+[Replit](https://replit.com) is where you will accept and submit all assignments and do in-class group exercises using a shared editor.
 
 -----
 
