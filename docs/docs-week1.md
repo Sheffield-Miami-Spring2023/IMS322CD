@@ -1,26 +1,17 @@
 ---
-title: IMS322 A&B Documentation - Fall 2022
+title: IMS322 A&B Documentation - Spring 2023
 ---
 
 [Back to schedule](index.md)  
 
-# Week 1 - Introduction and Review - 8/22-8/24
+# Week 1 - Introduction and Review
 
-## Using an online code editor (Replit and CodePen)
-This semester, we will be using two online code editors for all coursework - Replit and CodePen. These online editors greatly simplify several aspects of writing HTML, CSS, and JavaScript, including setup, previewing, sharing, and collaborating. They aren't always the best option for serious development work, but are well-suited for learning, experimenting, and prototyping.  
+## Using an online code editor (Replit)
+This semester, we will be using an online code editor called Replit for all coding coursework. Using an online editor greatly simplifies several aspects of writing HTML, CSS, and JavaScript, including setup, previewing, sharing, and collaborating.  
 
-[Replit](https://replit.com) is where you will accept and submit all assignments and do in-class group exercises using a shared editor. Once you've created an account and joined the course team, you will be able to see and accept upcoming assignments. Direct links to will also be available in Canvas. Week 1's assignment will be an introduction to this process.  
-
-[CodePen](https://codepen.io) "pens" can be embedded in a web page as an HTML/CSS/JavaScript editor with a preview panel. Examples in the weekly readings for this class will use CodePen since the embedded pens can be edited with live updates right on the page. FYI, the HTML editor in CodePen only focusses on the content that goes in the <body> tags, so you won't see the content that goes in the <head> tags that you might usually expect.  
-
-*If you are using Safari on a Mac, you will need to disable the <a href="https://support.apple.com/guide/safari/prevent-cross-site-tracking-sfri40732/mac" target="_blank">"Prevent cross-site tracking"</a> option in preferences to enable live updates when editing embedded CodePen examples.*  
-
-You are *required* to have a Replit account for this class. A CodePen account is optional but recommended since it will allow you to "fork" example code into a new "pen" in your account without needing to copy-paste.  
-
-Both Replit and CodePen allow users to login using a GitHub account. You can create a GitHub account if you want to simplify that process and think you might use GitHub in the future. Otherwise, signing up for Replit and/or CodePen using your miamioh email account is fine.
+[Replit](https://replit.com) is where you will accept and submit all assignments and do in-class group exercises using a shared editor. Once you've created an account and joined the course team, you will be able to see and accept upcoming assignments. Direct links to will also be available in Canvas. 
 
 -----
-
 
 ## Review HTML
 As you might recall from IMS222, HTML stands for "HyperText Markup Language" and is where the CONTENT of a web page is written.
