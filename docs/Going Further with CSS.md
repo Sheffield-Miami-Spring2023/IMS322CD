@@ -4,7 +4,7 @@ title: IMS322 Documentation - Spring 2023
 
 # Going Further With CSS
 
-[Home](index.md)
+[Home](index)
 
 Before getting into JavaScript, we're going spend some time with more advanced CSS properties. A few of the techniques covered below are simply matters of convenience and consistency, though some will help you make your sites a bit more dynamic before implementing genuine interactivity.
 <br><br>

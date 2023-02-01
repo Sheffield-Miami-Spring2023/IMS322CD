@@ -4,7 +4,7 @@ title: IMS322 Documentation - Spring 2023
 
 # Coding Conventions
 
-[Home](index.md)
+[Home](index)
 <br><br>
 ## General
 - Be consistent with your indentation. Use the tab key at the start of each sub element. The text editor and browser do not care about empty space in your code, but consistent indentation improves readability and makes troubleshooting much easier.

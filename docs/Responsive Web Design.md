@@ -4,7 +4,7 @@ title: IMS322 Documentation - Spring 2023
 
 # Responsive Web Design
 
-[Home](index.md)
+[Home](index)
 
 Read the [section on responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design#responsive_design) (RWD) in the MDN Web Docs. We will focus on the 3 techniques listed in that article:  fluid images, fluid grids, and media queries.
 <br><br>

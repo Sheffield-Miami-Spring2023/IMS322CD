@@ -14,10 +14,10 @@ This semester, we will be using an online code editor called [Replit](https://re
 Another online code editor, [CodePen](https://codepen.io/), was used to develop the embedded examples throughout this documentation. You should be able to edit them directly within each page and see the live preview update as you change the code. You may want to expand some of the examples into their own window, especially those dealing with Responsive Web Design - to do so, simply click the "Edit on CodePen" link in the upper-right corner. You do not need a CodePen acount for this. If you would like to reuse any of the CodePen example code elsewhere, simply copy-paste the content into your own Repl. Anything in the CodePen HTML section should be put inside the `<body>` when used elsewhere.
 <br><br>
 ## Table of Contents
-- [HTML and CSS Review](HTML%20and%20CSS%20Review.md)
-- [Coding Conventions](Coding%20Conventions.md)
-- [Responsive Web Design](Responsive%20Web%20Design.md)
-- [Going Further with CSS](Going%20Further%20with%20CSS.md)
+- [HTML and CSS Review](HTML%20and%20CSS%20Review)
+- [Coding Conventions](Coding%20Conventions)
+- [Responsive Web Design](Responsive%20Web%20Design)
+- [Going Further with CSS](Going%20Further%20with%20CSS)
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)

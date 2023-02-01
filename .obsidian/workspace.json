@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Coding Conventions.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Coding Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Coding Conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Coding Conventions.md"
               }
             }
           }
@@ -160,11 +160,11 @@
   },
   "active": "9a50e7f8918e6a73",
   "lastOpenFiles": [
-    "docs/Coding Conventions.md",
-    "docs/Going Further with CSS.md",
+    "docs/Responsive Web Design.md",
     "docs/index.md",
     "docs/HTML and CSS Review.md",
-    "docs/Responsive Web Design.md",
+    "docs/Going Further with CSS.md",
+    "docs/Coding Conventions.md",
     "Schedule.md",
     "README.md",
     "Introduction.md",

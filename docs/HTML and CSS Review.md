@@ -4,7 +4,7 @@ title: IMS322 Documentation - Spring 2023
 
 # HTML and CSS Review
 
-[Home](index.md)
+[Home](index)
 <br><br>
 ## Review HTML
 As you might recall, HTML stands for "HyperText Markup Language" and is where the **content** of a web page is written.
