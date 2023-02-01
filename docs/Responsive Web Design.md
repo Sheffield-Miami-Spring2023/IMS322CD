@@ -50,7 +50,7 @@ Try adjusting the size of the preview and changing some of the values specified 
 </p>
 
 A couple of additional properties are demonstrated in the next example, namely:
-- Giving flex items different `flex` property values to adjust their relative proportions (item 3 is twice the width of items 1 and 2)
+- Giving flex items different `flex` property values to adjust their relative proportions (item 3 is twice the width of items 1 and 2). In general, it is better to use this `flex` property instead of a percentage when you have multiple items in a flexbox container.
 - Changing the flex-direction to `column` (row is the default)
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="WNzmEGK" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/WNzmEGK">

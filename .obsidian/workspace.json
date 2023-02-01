@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Going Further with CSS.md",
+                "file": "docs/Responsive Web Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Going Further with CSS.md",
+                "file": "docs/Responsive Web Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Going Further with CSS.md",
+                "file": "docs/Responsive Web Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Going Further with CSS.md"
+                "file": "docs/Responsive Web Design.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "9126a80d76f25803",
   "lastOpenFiles": [
+    "docs/Going Further with CSS.md",
     "docs/Coding Conventions.md",
     "docs/Responsive Web Design.md",
     "docs/index.md",
     "docs/HTML and CSS Review.md",
-    "docs/Going Further with CSS.md",
     "Schedule.md",
     "README.md",
     "Introduction.md",
