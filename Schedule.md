@@ -1,3 +1,13 @@
+Todo:
+- 
+- Review
+- Conventions
+- RWD
+- Going further with CSS
+
+
+
+
 Week 1 - Introduction and Review - 8/22-8/24
   - Week 1 Reading (due 8/24, before class)
     - Also read:

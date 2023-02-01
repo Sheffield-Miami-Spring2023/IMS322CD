@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b41757505de38a8b",
+        "id": "eb04bc2ad2dc08e4",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc9cebc6c08eb52",
+            "id": "9a50e7f8918e6a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9126a80d76f25803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Going Further with CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bc9cebc6c08eb52",
+  "active": "9a50e7f8918e6a73",
   "lastOpenFiles": [
-    "docs/Introduction and Review.md",
+    "docs/Coding Conventions.md",
+    "docs/Going Further with CSS.md",
     "docs/index.md",
+    "docs/HTML and CSS Review.md",
+    "docs/Responsive Web Design.md",
     "Schedule.md",
     "README.md",
     "Introduction.md",
     "Introduction and Review.md",
-    "docs/Introduction.md",
-    "[docs/Introduction.md",
-    "Introduction 1.md",
-    "Assignments/Assignment 1 - FAQ.md"
+    "docs/Introduction.md"
   ]
 }
