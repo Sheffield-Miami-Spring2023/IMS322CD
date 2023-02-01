@@ -10,6 +10,7 @@ Week 1 - Introduction and Review - 8/22-8/24
     - Review HTML elements (tags)
     - Review CSS
   In general, readings and quizzes are intended to be completed BEFORE the week in which they are assigned in order to prepare for that week's content. For example, Week 2's reading and quiz are due before class on Monday 8/29. This due date is different for Week 1's content since it is the first week of the semester and intended as review.
+
 Week 2 - Responsive Web Design - 8/29-8/31
   - Week 2 Reading (due 8/29, before class)
   - Week 2 Quiz (due 8/29, before class)
@@ -21,6 +22,7 @@ Week 2 - Responsive Web Design - 8/29-8/31
     - Flexbox
     - Media queries
     - Responsive Design Mode (developer tools)
+
 Week 3 - Going Further With CSS - 9/5-9/7*
   - Week 3 Reading
   - Week 3 Quiz (due 9/7, before class)*
@@ -33,6 +35,7 @@ Week 3 - Going Further With CSS - 9/5-9/7*
     - Pseudo-classes
     - CSS transforms and transitions
     - CSS animations
+
 Week 4 - Introduction to JavaScript - 9/12-9/14
   - Week 4 Reading
   - Week 4 Quiz (due 9/12, before class)
@@ -43,6 +46,7 @@ Week 4 - Introduction to JavaScript - 9/12-9/14
     - Values, types, and operators
     - Variables
     - JavaScript conventions e.g. indentation, brackets, camelCase, etc.
+
 Week 5 - Handling Inputs 1 - 9/19-9/21
   - Week 5 Reading
     - Also read: About Face Ch21 pp. 589-593, Controls introduction and Imperative Controls
@@ -53,6 +57,7 @@ Week 5 - Handling Inputs 1 - 9/19-9/21
     - Imperative controls (buttons)
     - Functions
     - Event listeners
+
 Week 6 - Handling Inputs 2 - 9/26-9/28
   - Week 6 Reading
     - Also read: About Face Ch21 pp. 593-625 - Selection controls, List controls, Entry controls, Validated entry controls, Display controls
@@ -63,6 +68,7 @@ Week 6 - Handling Inputs 2 - 9/26-9/28
     - More controls
     - Submitting and handling data
     - Getting and changing HTML attributes and CSS properties
+
 Week 7 - Arrays & Loops - 10/3-10/5
   - Week 7 Reading
     - Also read: Eloquent JavaScript, Ch4 - Data Structures: Objects and Arrays (up until "Properties" section)
