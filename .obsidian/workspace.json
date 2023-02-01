@@ -11,8 +11,12 @@
             "id": "5bc9cebc6c08eb52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/index.md"
+              }
             }
           }
         ]
@@ -140,14 +148,15 @@
   },
   "active": "5bc9cebc6c08eb52",
   "lastOpenFiles": [
-    "Mini Assignments/Mini-Assignment 1 - Introduce Yourself.md",
-    "Schedule.md",
-    "Assignments/Assignment Rubric.md",
+    "docs/Introduction and Review.md",
+    "docs/index.md",
+    "docs/Introduction.md",
+    "[docs/Introduction.md",
+    "Introduction and Review.md",
+    "Introduction.md",
+    "Introduction 1.md",
     "Assignments/Assignment 1 - FAQ.md",
-    "docs/images/01-container.svg",
-    "docs/images/02-items.svg",
-    "docs/images/RDM.png",
-    "Mini Assignments/Mini-Assignment 2 - Responsive Introduction.md",
-    "README.md"
+    "Assignments/Assignment Rubric.md",
+    "Mini Assignments/Mini-Assignment 1 - Introduce Yourself.md"
   ]
 }
