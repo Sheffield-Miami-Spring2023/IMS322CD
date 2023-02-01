@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Introduction and Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Introduction and Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Introduction and Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Introduction and Review.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "5bc9cebc6c08eb52",
   "lastOpenFiles": [
-    "docs/Introduction and Review.md",
     "docs/index.md",
+    "docs/Introduction and Review.md",
+    "Schedule.md",
+    "README.md",
+    "Introduction.md",
+    "Introduction and Review.md",
     "docs/Introduction.md",
     "[docs/Introduction.md",
-    "Introduction and Review.md",
-    "Introduction.md",
     "Introduction 1.md",
-    "Assignments/Assignment 1 - FAQ.md",
-    "Assignments/Assignment Rubric.md",
-    "Mini Assignments/Mini-Assignment 1 - Introduce Yourself.md"
+    "Assignments/Assignment 1 - FAQ.md"
   ]
 }

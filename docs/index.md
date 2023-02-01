@@ -6,4 +6,4 @@ description: Home
 
 ## Welcome
 
-[Introduction and Review](docs/Introduction%20and%20Review)
+[Introduction and Review](Introduction%20and%20Review)
