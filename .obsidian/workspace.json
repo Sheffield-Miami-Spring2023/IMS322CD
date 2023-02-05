@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb04bc2ad2dc08e4",
+        "id": "b4b1a455d3a241fa",
         "type": "tabs",
         "children": [
           {
-            "id": "9126a80d76f25803",
+            "id": "30f5c0daa646a54f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Responsive Web Design.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9126a80d76f25803",
+  "active": "3531cdf3f5d1114a",
   "lastOpenFiles": [
     "docs/Going Further with CSS.md",
     "docs/Coding Conventions.md",
