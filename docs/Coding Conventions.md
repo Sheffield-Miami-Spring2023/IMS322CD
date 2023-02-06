@@ -23,4 +23,4 @@ title: IMS322 Documentation - Spring 2023
 <br><br>
 ## JavaScript
 -   Use comments as needed clarify and organize: `// This is a JS comment`
--   Write all variable and function names using the "camelCase" convention: start lowercase, capialize each successive word, no spaces or hyphens. For example: `myVariable`, `primaryButton`, etc.
+-   Write all variable and function names using the "camelCase" convention: start lowercase, capitalize each successive word, no spaces or hyphens. For example: `myVariable`, `primaryButton`, etc.

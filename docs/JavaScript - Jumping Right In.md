@@ -51,31 +51,35 @@ document.getElementById("first-paragraph");
 Notice a couple of things about the previous line:
 - It starts with `document`, which is the main object that represents your web page. If you want to access any element in an HTML page, you always start with accessing the document object.
 - `getElementById` is a method of the document. It does exactly what it says: gets an element from the HTML that has an id matching the one provided as a parameter in the parantheses. From this, we can also assume that any HTML element that will be used as part of an interaction should be given an id attribute.
-- Anything named with multiple words in JavaScript, like `getElementById`, uses the camelCase convention: start lowercase, capialize each successive word, no spaces or hyphens.
-- However, things that were named in the HTML first, like the `first-paragraph` id, still use the kebab-case convention.
+- Anything named with multiple words in JavaScript, like `getElementById`, uses the camelCase convention: start lowercase, capitalize each successive word, no spaces or hyphens. However, things that were named in the HTML first, like the `first-paragraph` id, still use the kebab-case convention.
 - In JavaScript, a statement ends with a semi-colon. Modern JavaScript is pretty forgivable about missing semi-colons, but you'll still want to get in the habit of using them.
 
 How can you know for sure that you are referencing the right HTML element? You can check by logging it to the console
 
 ```
-console.log(document.getElementById("first-paragraph");
+console.log(document.getElementById("first-paragraph"));
 ```
 
-The console is part of your browser's developer tools. See if you can find it - what do you see there?
+The console is part of your browser's developer tools. Open it now - What do you see there? Can you find the "first-paragraph" element?
 
-*FYI, just like in Replit, the developer tools can get a little crowded when using these embedded CodePen examples. If you would like to see a clean output from the console, click on "Edit on CodePen" and use the Console button at the bottom of the CodePen window.*
+*FYI, just like in Replit, the developer tools can get a little crowded when using these embedded CodePen examples. If you would like to see a clean output from the console, click on "Edit on CodePen" and use the Console button at the bottom of the CodePen window instead.*
+
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="vYaPjvj" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/vYaPjvj">
   IMS322-Console-Log</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-Given the example code embedded above, try changing the contents within the parantheses of `console.log();` Here are a few to get you started:
+Given the example code embedded above, try changing the contents within the parantheses of `console.log();`
+
+Here are a few to get you started:
 - `console.log("Hello, world!");`
 - `console.log(10);`
 - `console.log(10+10);`
 - `console.log("10" + "10");`
 
-Now make some new HTML elements with different id attributes and try referencing them within the parentheses of `console.log();`. Here's one to get you started:
+Now make some new HTML elements with different id attributes and try referencing them within the parentheses of `console.log();`
+
+Here's one to get you started:
 
 In HTML:
 ```
@@ -84,7 +88,7 @@ In HTML:
 
 In JavaScript:
 ```
-console.log(document.getElementById("my-element");
+console.log(document.getElementById("my-element"));
 ```
 
 
@@ -117,7 +121,7 @@ To assign an element it to a variable, use:
 let myElement = document.getElementById("id-of-element");
 ```
 
-The `let` keyword indicates that you are defining a variable. The name of the variable, in this case `myElement`, can be whatever you want, though it should be short, descriptive, and follow the camelCase convention. 
+The `let` keyword indicates that you are defining a variable. The name of the variable, in this case `myElement`, can be whatever you want, though it should be short, descriptive, and follow camelCase convention. 
 
 Now, the much shorter variable name can be used in place of the longer element reference, so:
 
@@ -143,11 +147,12 @@ To define a function, start with the `function` keyword followed by a memorable 
 
 ```
 function myAmazingFunction() {
-	// stuff happens here
+  // stuff happens here
 }
 ```
 
-A function can consist of one or several lines. So far, all we really know how to do is log information to the console. Try practicing modifying the function below with multiple `console.log` messages.
+The body of a function can consist of one or several lines. So far, all we really know how to do is log information to the console. Try practicing modifying the function below with multiple `console.log` messages.
+
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="MWBxRwR" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/MWBxRwR">
   IMS322-Functions</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
@@ -155,14 +160,17 @@ A function can consist of one or several lines. So far, all we really know how t
 </p>
 <br><br>
 ## Changing Style Properties
-In order to achieve some type of dynamic visual feedback in response to a user's input, we'll need to modify the style properties of one or HTML elements. Style properties for an element can be accessed with `myElement.style.property` where property is the name of a familiar CSS property. Some examples:
+In order to achieve some type of dynamic visual feedback in response to a user's input, we'll need to modify the style properties of one or HTML elements. Style properties for an element can be accessed with `myElement.style.property` where "property" is the name of a familiar CSS property.
+
+Some examples:
 - `myElement.style.color = "white"` sets text color to white.
 - `myElement.style.backgroundColor = "blue"` sets background color to blue.
 - `myElement.style.height = "100px"` sets element height to 100px.
 
-This can also be used to read an elements style property - notice the `console.log` line inside of the function below.
+This can also be used to read an elements style property i.e. discover its current value - notice the `console.log` line inside of the function below.
 
-Try changing different style properties of the color swatch element in this embedded example. FYI, you'll often need to change multi-word CSS kebab-case properties to camelCase in JavaScript e.g. background-color becomes backgroundColor in JavaScript, font-size becomes fontSize, etc. 
+Try changing different style properties of the color swatch element in this embedded example. FYI, you'll often need to change multi-word CSS kebab-case properties to camelCase in JavaScript e.g. `background-color` becomes `backgroundColor` in JavaScript, `font-size` becomes `fontSize`, etc. 
+
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="OJwqGXv" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/OJwqGXv">
   IMS322-Changing-Style-Properties</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
