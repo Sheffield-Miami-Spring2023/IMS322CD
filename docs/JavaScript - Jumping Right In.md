@@ -19,7 +19,8 @@ The "defer" attribute is important when the `<script>` tag is placed in the `<he
 There are 3 steps to implementing basic interactivity in JavaScript:
 1. Reference an HTML element: What element is the user interacting with, and/or what element do you want to change in response to an event?
 2. Add an event listener to that element: What kind of interactive event are you listening for?
-3. Define a function: What do you want to happen when the specified event occurs?  
+3. Define a function: What do you want to happen when the specified event occurs?
+
 <br><br>
 ## Referencing an Element
 There are multiple ways to reference an HTML element outside of the HTML document itself. In CSS, we generally use class selectors when indicating which elements we want to style. For example, given this `<p>` element:
