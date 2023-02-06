@@ -32,7 +32,7 @@ You would use this CSS to make the text red:
 
 ```
 .main-text {
-	color: red;
+  color: red;
 }
 ```
 
@@ -50,7 +50,7 @@ document.getElementById("first-paragraph");
 
 Notice a couple of things about the previous line:
 - It starts with `document`, which is the main object that represents your web page. If you want to access any element in an HTML page, you always start with accessing the document object.
-- `getElementById` is a method of the document. It does exactly what it says: gets an element from the HTML that has the matching id provided in parantheses. From this, we can also assume that any HTML element that will be used as part of an interaction should be given an id.
+- `getElementById` is a method of the document. It does exactly what it says: gets an element from the HTML that has an id matching the one provided as a parameter in the parantheses. From this, we can also assume that any HTML element that will be used as part of an interaction should be given an id attribute.
 - Anything named with multiple words in JavaScript, like `getElementById`, uses the camelCase convention: start lowercase, capialize each successive word, no spaces or hyphens.
 - However, things that were named in the HTML first, like the `first-paragraph` id, still use the kebab-case convention.
 - In JavaScript, a statement ends with a semi-colon. Modern JavaScript is pretty forgivable about missing semi-colons, but you'll still want to get in the habit of using them.
