@@ -18,6 +18,7 @@ Another online code editor, [CodePen](https://codepen.io/), was used to develop 
 - [Coding Conventions](Coding%20Conventions)
 - [Responsive Web Design](Responsive%20Web%20Design)
 - [Going Further with CSS](Going%20Further%20with%20CSS)
+- [JavaScript - Jumping Right In](JavaScript%20-%20Jumping%20Right%20In)
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
