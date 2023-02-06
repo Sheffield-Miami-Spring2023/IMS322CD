@@ -5,7 +5,7 @@ title: IMS322 Documentation - Spring 2023
 # JavaScript - Jumping Right In
 
 [Home](index)
-<br><br>
+
 JavaScript is the programming language of the web. It adds interactivity and dynamic behaviors to HTML and CSS. With JavaScript, you can accept input from a user and modify page contents in response.
 
 Just like CSS, you must have a reference to your JavaScript file in the `<head>` of your HTML. Assuming a standard file name of "script.js," that reference should look something like this:
@@ -19,7 +19,7 @@ The "defer" attribute is important when the `<script>` tag is placed in the `<he
 There are 3 steps to implementing basic interactivity in JavaScript:
 1. Reference an HTML element: What element is the user interacting with, or what element do you want to change in response to an event?
 2. Add an event listener to that element: What kind of interactive event are you listening for?
-3. Define a function: What do you want to happen when the specified event occurs?
+3. Define a function: What do you want to happen when the specified event occurs?  
 <br><br>
 ## Referencing an Element
 There are multiple ways to reference an HTML element outside of the HTML document itself. In CSS, we generally use class selectors when indicating which elements we want to style. For example, given this `<p>` element:
