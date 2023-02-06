@@ -17,7 +17,7 @@ Just like CSS, you must have a reference to your JavaScript file in the `<head>`
 The "defer" attribute is important when the `<script>` tag is placed in the `<head>`. It ensures that the JavaScript does not execute until after the rest of the page has finished loading.
 
 There are 3 steps to implementing basic interactivity in JavaScript:
-1. Reference an HTML element: What element is the user interacting with, or what element do you want to change in response to an event?
+1. Reference an HTML element: What element is the user interacting with, and/or what element do you want to change in response to an event?
 2. Add an event listener to that element: What kind of interactive event are you listening for?
 3. Define a function: What do you want to happen when the specified event occurs?  
 <br><br>
