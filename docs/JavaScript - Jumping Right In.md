@@ -21,7 +21,7 @@ There are 3 steps to implementing basic interactivity in JavaScript:
 2. Add an event listener to that element: What kind of interactive event are you listening for?
 3. Define a function: What do you want to happen when the specified event occurs?
 
-<br><br>
+<br>
 ## Referencing an Element
 There are multiple ways to reference an HTML element outside of the HTML document itself. In CSS, we generally use class selectors when indicating which elements we want to style. For example, given this `<p>` element:
 
@@ -152,7 +152,7 @@ function myAmazingFunction() {
 }
 ```
 
-The body of a function can consist of one or several lines. So far, all we really know how to do is log information to the console. Try practicing modifying the function below with multiple `console.log` messages.
+The body of a function can consist of one or several lines. So far, all we really know how to do is log information to the console. Practicemodifying the function below by changing its name and adding multiple `console.log` messages.
 
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="MWBxRwR" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/MWBxRwR">
