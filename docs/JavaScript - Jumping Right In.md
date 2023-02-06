@@ -179,12 +179,13 @@ Try changing different style properties of the color swatch element in this embe
 </p>
 <br><br>
 ## Toggling States
-We've seen how to change a style property in response to a button press. But what if you want to change back? In this case, we'll need some method of checking the current state of the element. The logic for toggling back and forth between two states would look something like this:
+We've seen how to change a style property in response to a button press. But what if you want to change it back using the same button? In this case, we'll need some way to check the current state of the element. The logic for toggling back and forth between two states would look something like this:
 - If currently in state A, change to state B.
 - Else, change to state A.
 Implied in the "else" in the second line is the statment "if currently not in state A".
 
 In JavaScript, we can use an if statement to execute code based on our desired conditions:
+
 ```
 if (property === stateA) {
 	// do stuff to change to state B
@@ -195,6 +196,7 @@ else {
 ```
 
 Notice that a triple equals sign is used for the comparison part of the if statement, while a single equals sign is used to assign/change properties. 
+
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="wvxOZqE" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/wvxOZqE">
   IMS322-Changing-Style-Properties</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
