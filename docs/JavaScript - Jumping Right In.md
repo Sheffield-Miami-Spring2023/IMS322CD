@@ -5,7 +5,7 @@ title: IMS322 Documentation - Spring 2023
 # JavaScript - Jumping Right In
 
 [Home](index)
-
+<br><br>
 JavaScript is the programming language of the web. It adds interactivity and dynamic behaviors to HTML and CSS. With JavaScript, you can accept input from a user and modify page contents in response.
 
 Just like CSS, you must have a reference to your JavaScript file in the `<head>` of your HTML. Assuming a standard file name of "script.js," that reference should look something like this:
@@ -14,9 +14,9 @@ Just like CSS, you must have a reference to your JavaScript file in the `<head>`
 <script src="script.js" defer></script>
 ```
 
-The "defer" attribute is important when the `<script>` tag is placed in the `<head>` - it ensures that the JavaScript does not execute until after the rest of the page has finished loading.
+The "defer" attribute is important when the `<script>` tag is placed in the `<head>`. It ensures that the JavaScript does not execute until after the rest of the page has finished loading.
 
-There are 3 steps to basic interactivity in JavaScript:
+There are 3 steps to implementing basic interactivity in JavaScript:
 1. Reference an HTML element: What element is the user interacting with, or what element do you want to change in response to an event?
 2. Add an event listener to that element: What kind of interactive event are you listening for?
 3. Define a function: What do you want to happen when the specified event occurs?
@@ -62,6 +62,8 @@ console.log(document.getElementById("first-paragraph");
 ```
 
 The console is part of your browser's developer tools. See if you can find it - what do you see there?
+
+*FYI, just like in Replit, the developer tools can get a little crowded when using these embedded CodePen examples. If you would like to see a clean output from the console, click on "Edit on CodePen" and use the Console button at the bottom of the CodePen window.*
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="vYaPjvj" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/vYaPjvj">
   IMS322-Console-Log</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
@@ -70,7 +72,7 @@ The console is part of your browser's developer tools. See if you can find it - 
 Given the example code embedded above, try changing the contents within the parantheses of `console.log();` Here are a few to get you started:
 - `console.log("Hello, world!");`
 - `console.log(10);`
-- `console.log(10+10);
+- `console.log(10+10);`
 - `console.log("10" + "10");`
 
 Now make some new HTML elements with different id attributes and try referencing them within the parentheses of `console.log();`. Here's one to get you started:
