@@ -11,6 +11,7 @@ Start by reading the following sections from [Chapter 1 of Eloquent JavaScript](
 - Numbers
 - Arithmetic
 - Strings
+
 <br><br>
 ## Values, Types, and Operators
 JavaScript is a "weakly typed" language, which means that you do not specify what kind (or type) of data you are working with. The most basic data types in JavaScript are:
