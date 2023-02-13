@@ -6,7 +6,7 @@ title: IMS322 A&B Documentation - Fall 2022
 
 # Introduction to JavaScript - 9/12-9/14
 
-Read the following sections from <a href="https://eloquentjavascript.net/01_values.html" target="_blank">Chapter 1 of Eloquent JavaScript</a>:
+Read the following sections from [Chapter 1 of Eloquent JavaScript](https://eloquentjavascript.net/01_values.html):
 - Values
 - Numbers
 - Arithmetic

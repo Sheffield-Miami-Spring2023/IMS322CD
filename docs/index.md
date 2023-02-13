@@ -19,6 +19,9 @@ Another online code editor, [CodePen](https://codepen.io/), was used to develop 
 - [Responsive Web Design](Responsive%20Web%20Design)
 - [Going Further with CSS](Going%20Further%20with%20CSS)
 - [JavaScript - Jumping Right In](JavaScript%20-%20Jumping%20Right%20In)
+- [Using the Console](Using%20the%20%Console.md)
+- [Variables and Values](Variables%20and%20Values.md)
+- [Conditionals](Conditionals.md)
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
