@@ -22,6 +22,8 @@ Another online code editor, [CodePen](https://codepen.io/), was used to develop 
 - [Using the Console](Using%20the%20Console)
 - [Variables and Values](Variables%20and%20Values)
 - [Conditionals](Conditionals)
+- [More Functions](More%20Functions)
+- [Handling Inputs](Handling%20Inputs)
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
