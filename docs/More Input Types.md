@@ -33,7 +33,7 @@ Something that can get kind of messy with radio buttons is figuring out how to r
 </p>
 <br><br>
 ## Select
-The `<select>` element is kind of an outlier when it comes to HTML-based inputs. It does not use the `<input>` tag; rather, it has its own unique tag. Beyond that, its functionality is similar to the radio button in that it only allows a user to make one choice from a prefilled list of options. It is generally the more straightforward implementation of this input style if it is not necessary to present all available options at the same time.
+The `<select>` element is kind of an outlier when it comes to HTML-based inputs. It does not use the `<input>` tag; rather, it has its own unique tag. Beyond that, its functionality is similar to the radio button in that it only allows a user to make one choice from a prefilled list of options in a dropdown menu. It is generally the more straightforward implementation of this input style if it is not necessary to present all available options at the same time.
 <p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="KKxNxOQ" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/KKxNxOQ">
   IMS322-Input-Select</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
