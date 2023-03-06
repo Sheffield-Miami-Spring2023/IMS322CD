@@ -5,7 +5,7 @@ title: IMS322 Documentation - Spring 2023
 # Handling Inputs
 
 [Home](index)
-<br><br>
+
 Broadly, we can classify controls into two categories - those that require handling data, and those that do not. For example, a button does not ask the user for any input values or text - they click, something happens, end of story.
 <p class="codepen" data-height="400" data-default-tab="js,result" data-slug-hash="qBMbNpz" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/qBMbNpz">

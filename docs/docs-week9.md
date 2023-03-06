@@ -32,10 +32,9 @@ Although you can change style properties of elements directly from within JavaSc
 
 ## Hiding inactive content
 Think about some other ways that you can not just make content look inactive, but hide it entirely when it is not active...
-
-<p class="codepen" data-height="560" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="gOzZqGR" data-editable="true" data-user="ersheff" style="height: 560px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="gOzZqGR" data-editable="true" data-user="ersheff" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/gOzZqGR">
-  Week9-3-Hide</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
+  IMS322-Utility-Hide</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
