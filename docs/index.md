@@ -26,6 +26,7 @@ Another online code editor, [CodePen](https://codepen.io/), was used to develop 
 - [Handling Inputs](Handling%20Inputs)
 - [More Input Types](More%20Input%20Types)
 - [Utility Classes](Utility%20Classes)
+- [Introduction to p5](Introduction%20to%20p5)
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
