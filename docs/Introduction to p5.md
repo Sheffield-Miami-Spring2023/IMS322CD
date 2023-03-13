@@ -12,13 +12,13 @@ From the [p5 home page](https://p5js.org):
 *"p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone."*
 
 In short, p5 simplifies drawing, animation, and interactivity in JavaScript. It does this primarily by providing predefined functions and variables that handle some of the more complex logic and calculations behind the scenes. For example, here is the JavaScript required to draw a circle:
-<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="wvEyQXb" data-editable="true" data-user="ersheff" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="520" data-default-tab="js,result" data-slug-hash="wvEyQXb" data-editable="true" data-user="ersheff" style="height: 520px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/wvEyQXb">
   IMS322-Vanilla-Circle</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 And here is essentially the same drawing using p5:
-<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="qBMxQMp" data-editable="true" data-user="ersheff" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="520" data-default-tab="js,result" data-slug-hash="qBMxQMp" data-editable="true" data-user="ersheff" style="height: 520px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/qBMxQMp">
   IMS322-p5-Circle</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -45,7 +45,7 @@ Your `setup()` function should always include at least `createCanvas(w, h)`, whe
 Your `draw()` function should always include `background(x)` at the very beginning of the function where "x" is a desired background color e.g. 0 for black, or an RGB value like (255, 0, 0). This background also serves to copmletely wipe the canvas clean at the beginning of every frame, kind of like those magnetic wipe-and-erase boards for kids.
 
 Try changing the width and height values of the canvas and the color of the background in the example below.
-<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="JjZPJae" data-editable="true" data-user="ersheff" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="520" data-default-tab="js,result" data-slug-hash="JjZPJae" data-editable="true" data-user="ersheff" style="height: 520px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/JjZPJae">
   IMS322-Setup-Draw</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -53,7 +53,7 @@ Try changing the width and height values of the canvas and the color of the back
 <br><br>
 ## The Canvas
 In p5, we'll be drawing shapes and images to a canvas. This canvas uses the familiar [Cartesian coordinate sytem](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) where positions are specificed using a pair of numerical coordinates - x and y. However, in p5, the origin point of "0, 0" is the top left corner of the canvas, rather than the center. In the example below, you can move your cursor around inside of the canvas area to see the coordinates that correspond to its position.
-<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="xxjowgB" data-editable="true" data-user="ersheff" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="520" data-default-tab="js,result" data-slug-hash="xxjowgB" data-editable="true" data-user="ersheff" style="height: 520px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/xxjowgB">
   IMS322-p5-Canvas</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
