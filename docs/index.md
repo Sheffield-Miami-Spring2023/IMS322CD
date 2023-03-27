@@ -29,6 +29,7 @@ Another online code editor, [CodePen](https://codepen.io/), was used to develop 
 - [Introduction to p5](Introduction%20to%20p5)
 - [Arrays and Objects](Arrays%20and%20Objects)
 - [For Loops](For%20Loops)
+- [Managing States](Managing%20States)
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
