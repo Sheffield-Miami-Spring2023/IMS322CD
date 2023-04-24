@@ -30,6 +30,8 @@ Another online code editor, [CodePen](https://codepen.io/), was used to develop 
 - [Arrays and Objects](Arrays%20and%20Objects)
 - [For Loops](For%20Loops)
 - [Managing States](Managing%20States)
+- [Single Page Navigation](Single%20Page%20Navigation)
+
 <br><br>
 ## Other Resources
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)

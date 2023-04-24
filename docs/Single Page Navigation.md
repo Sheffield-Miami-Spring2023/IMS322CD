@@ -1,22 +1,20 @@
 ---
-title: IMS322 A&B Documentation - Fall 2022
+title: IMS322 Documentation - Spring 2023
 ---
 
-[Back to schedule](index.md)  
+# Single Page Navigation
 
-# Week 13 - Project 2 Prep - 11/14-11/16
+[Home](index)
 
 ## Page anchors and smooth scrolling
 
-The `<a>` element can be used for more than just linking to external websites. You can also provide an id for an element further down the page as the href attribute, which will cause the page to scroll down to that location. By default, this will happen with an immediate (and somewhat disorienting) "snap". Adding the `scroll-behavior: smooth;` property to the body causes the scroll location to transition smoothly, which is not only more visually appealing, but can help the user better orient themselves within the document.
+The `<a>` element can be used for more than just linking to external websites. You can also provide an id for an element further down the page as the href attribute of that `<a>` tag, which will cause the page to scroll down to that location. By default, this will happen with an immediate (and somewhat disorienting) "snap". Adding the `scroll-behavior: smooth;` property to the body causes the scroll location to transition smoothly, which is not only more visually appealing, but can help the user better orient themselves within the document.
 
 <p class="codepen" data-height="540" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="mdKwYWJ" data-editable="true" data-user="ersheff" style="height: 540px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ersheff/pen/mdKwYWJ">
   Week13-1-Smooth</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
 
 ## Sticky elements
 
@@ -33,7 +31,6 @@ Top navbar implementation:
   Week13-2-Sticky</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 Sidebar implementation:
 
@@ -42,8 +39,6 @@ Sidebar implementation:
   Week13-3-Sticky2</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
 
 ## Tabbed interface
 
@@ -54,5 +49,15 @@ While there are many examples of tabbed interfaces available online with differe
   Week13-4-Tabs</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
+## iframe
+
+Using an iframe is probably the quickest and most convenient way to embed existing projects in a new site. An iframe is basically a window within a window that can display a different web page. However, iframes can be fickle when it comes to presenting embedded content seamlessly. It is sometimes difficult to size the iframes appropriately according to the source content (i.e. to prevent a border or scrollbars within the iframe). One way to prevent this is to set the width and height large enough in the CSS through trial and error. It's also possible to use JavaScript to get the content size of the source and update the iframe accordingly, but solutions vary by browser and may not be reliable.
+
+<p class="codepen" data-height="520" data-default-tab="html,result" data-slug-hash="oNaZWeZ" data-editable="true" data-user="ersheff" style="height: 520px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ersheff/pen/oNaZWeZ">
+  IMS322-iframes</a> by Eric Sheffield (<a href="https://codepen.io/ersheff">@ersheff</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
